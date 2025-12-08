@@ -13,7 +13,8 @@ Our materials are designed to be learned in one of our [Humble Data workshops](h
 
 - [English](https://humbledata.org/online-workshop/lab/index.html)
 - [Spanish](https://humbledata.org/online_workshop_spanish/lab/index.html)
-- [Italian](https://humbledata.org/online-workshop-italian-v2/lab/index.html).
+- [Italian](https://humbledata.org/online-workshop-italian-v2/lab/index.html)
+- [French](https://humbledata.org/online-workshop-fr/)
 
 Please contact us if you'd like to help out the project by translating the materials into other languages!  
 
